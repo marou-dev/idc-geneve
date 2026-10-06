@@ -192,11 +192,11 @@ def afficher(r):
 # Chiffres publies le 05.10.2026. verify les recalcule et signale tout ecart —
 # c'est le but : un chiffre qu'on ne peut pas rejouer n'est pas un resultat.
 PUBLIE = {
-    "parc": 49734, "sans_mesure": 28687, "avec_idc": 21047,
-    "mediane_mj": 387, "q1_mj": 308, "q3_mj": 470,
-    "eligibles_moy3": 18674,
-    "palier_800": 275, "palier_650": 908, "palier_550": 2402,
-    "petits_sup550_pct": 24.2, "grands_sup550_pct": 9.8,
+    "parc": 49734, "sans_mesure": 28677, "avec_idc": 21052,
+    "mediane_mj": 386, "q1_mj": 307, "q3_mj": 470,
+    "eligibles_moy3": 18668,
+    "palier_800": 276, "palier_650": 905, "palier_550": 2377,
+    "petits_sup550_pct": 28.4, "grands_sup550_pct": 9.6,
 }
 
 
